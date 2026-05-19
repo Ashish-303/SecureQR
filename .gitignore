@@ -1,0 +1,26 @@
+# Frontend dependencies
+node_modules/
+dist/
+.env
+
+# Python/Backend caches
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Large ML Models (GitHub blocks files > 100MB)
+*.pkl
+models/*.pkl
+backend/models/*.pkl
+
+# Large datasets
+*.csv
+dataset/*.csv
+
+# Editor directories and files
+.vscode/
+*.swp
+.idea/
+.DS_Store
