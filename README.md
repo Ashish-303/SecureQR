@@ -47,7 +47,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SecureQR.git
+git clone https://github.com/Ashish-303/SecureQR.git
 cd SecureQR
 ```
 
@@ -106,5 +106,5 @@ SecureQR/
 
 If you found this project helpful or have any questions, feel free to reach out!
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  *(Update this link)*
-- **GitHub**: [@your-username](https://github.com/your-username) *(Update this link)*
+- **LinkedIn**: [Ashish Bavaliya](https://www.linkedin.com/in/ashish-bavaliya)
+- **GitHub**: [@Ashish-303](https://github.com/Ashish-303)
